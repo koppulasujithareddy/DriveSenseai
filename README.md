@@ -6,7 +6,7 @@ Drive Sense AI is an Android application developed to enhance road safety and im
 
 Features
 
-- Smart driving assistance
+- Smart driving assistance 
 - Real-time alerts and notifications
 - User-friendly Android interface
 - Safety-focused functionality
